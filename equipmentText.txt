@@ -1,0 +1,17 @@
+Ball
+12
+Locker 1
+false
+Football
+true
+TableTennisRacket
+16
+Locker 5
+true
+false
+Ball
+13
+Locker 1
+false
+Football
+false
